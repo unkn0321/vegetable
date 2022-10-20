@@ -110,7 +110,7 @@ body
 }
 .nav_box
 {
-  width: 940px;
+  width: 910px;
   height: 44px;     
   padding: 10px 0px 10px 30px;
   margin-bottom: 20px;
@@ -211,7 +211,7 @@ img.img_main_pumpkin {
     order: 2;
 }
 .body_box_contact {
-    width: 444px;
+    width: 414px;
     height: 45px;
     margin-bottom : 15px;
     padding: 10px 0px 12px 30px;
@@ -272,7 +272,7 @@ img.img_main_pumpkin {
     color: #7d7d7d;
 }
 .body_box_vegetables {
-    width: 444px;
+    width: 414px;
     height: 45px;
     margin-bottom: 15px;
     padding: 10px 0px 12px 30px;
