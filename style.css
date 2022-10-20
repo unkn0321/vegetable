@@ -7,6 +7,7 @@ body{
 }
 .vegetable_t
 {
+    margin: 36px 0 0 160px;
     width: 271px;
     height: 62px;
     font-family: Arial;
@@ -80,7 +81,7 @@ header {
 {
   width: 940px;
   height: 44px;
-  margin: 18px 0 20px;
+  margin: 5px 16px 0 160px;
   padding: 10px 316px 11px 30px;
   border-radius: 3px;
   background-color: #778a50;
