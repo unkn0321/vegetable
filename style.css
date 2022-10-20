@@ -43,7 +43,20 @@ header {
     margin: 0 10px 13px ;
     object-fit: contain;
 }
-.btn_{
+.btn_LOGIN{
+    width: 46px;
+    height: 15px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.57;
+    letter-spacing: normal;
+    text-align: left;
+    color: #778a50;
+}
+.btn_JOIN{
     width: 46px;
     height: 15px;
     font-family: Arial;
