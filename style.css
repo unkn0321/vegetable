@@ -7,7 +7,7 @@ body{
 }
 .vegetable_t
 {
-    margin: 36px 0 0 160px;
+    margin: 36px 160px 0 160px;
     width: 271px;
     height: 62px;
     font-family: Arial;
@@ -81,7 +81,7 @@ header {
 {
   width: 940px;
   height: 44px;
-  margin: 5px 16px 0 160px;
+  margin: 5px 160px 0 160px;
   padding: 10px 316px 11px 30px;
   border-radius: 3px;
   background-color: #778a50;
@@ -165,7 +165,7 @@ img.img_main_pumpkin {
 .body_box_contact {
     width: 444px;
     height: 45px;
-    margin: 0 0 15px;
+    margin: 30px 160px 15px 52px;
     padding: 10px 345px 12px 30px;
     border-radius: 3px;
     background-color: #778a50;
@@ -228,7 +228,7 @@ img.img_main_pumpkin {
 .body_box_vegetables {
     width: 444px;
     height: 45px;
-    margin: 30px 52px 15px 0;
+    margin: 30px 52px 15px 160px;
     padding: 10px 316px 12px 30px;
     border-radius: 3px;
     background-color: #778a50;
