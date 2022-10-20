@@ -80,7 +80,7 @@ header {
   width: 940px;
   height: 44px;
   margin: 5px 0 0 0;
-  padding: 10px 316px 11px 30px;
+  padding: 10px 316px 10px 30px;
   border-radius: 3px;
   background-color: #778a50;
 }
@@ -171,7 +171,6 @@ img.img_main_pumpkin {
 .body_box_contact_text {
     width: 444px;
     height: 140px;
-    margin: 15px 0 0;
     padding: 15px;
     background-color: #f7fbda;
 }
@@ -226,7 +225,7 @@ img.img_main_pumpkin {
 .body_box_vegetables {
     width: 444px;
     height: 45px;
-    margin: 30px 52px 15px 160px;
+    margin: 30px 52px 15px 0;
     padding: 10px 316px 12px 30px;
     border-radius: 3px;
     background-color: #778a50;
