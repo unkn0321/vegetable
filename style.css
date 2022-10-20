@@ -193,10 +193,22 @@ img.img_main_pumpkin {
     margin-bottom: 30px;
     object-fit: contain;
 }
+.bottom_area
+{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+.vegetable_area{
+    order: 1;
+}
+.contact_area{
+    order: 2;
+    margin-left: 52px;
+}
 .body_box_contact {
     width: 444px;
     height: 45px;
-    margin-left: 52px;
     margin-bottom : 15px;
     padding: 10px 345px 12px 30px;
     border-radius: 3px;
