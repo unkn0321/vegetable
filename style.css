@@ -180,6 +180,19 @@ img.img_main_pumpkin {
     padding: 15px;
     background-color: #f7fbda;
 }
+.contact_title {
+  width: 69px;
+  height: 23px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2.25;
+  letter-spacing: normal;
+  text-align: left;
+  color: #edf2c5;
+}
 .contact_text1{
     width: 414px;
     height: 44px;
