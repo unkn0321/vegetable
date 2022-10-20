@@ -295,13 +295,13 @@ img.img_main_pumpkin {
 img.img_vegetables_pepper {
     width: 140px;
     height: 140px;
-    margin-right:  12px;
+    margin-right:  10px;
     object-fit: contain;
 }
 img.img_vegetables_carrot {
     width: 140px;
     height: 140px;
-    margin-right:  12px;
+    margin-right:  10px;
     object-fit: contain;
 }
 img.img_vegetables_corn {
