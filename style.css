@@ -1,6 +1,20 @@
-html{
-    font-family: Arial Black;
-    color: #edf2c5;
+.bg {
+    background-color: #edf2c5;
+}
+.web_title
+{
+    width: 271px;
+    height: 62px;
+    margin: 0 669px 747px 0;
+    font-family: Arial;
+    font-size: 44px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.82;
+    letter-spacing: normal;
+    text-align: left;
+    color: #778a50;
 }
 header {
     display: flex;
@@ -44,7 +58,7 @@ header {
 }
 .btn_box_LOGIN
 {
-    width: 60px;
+  width: 60px;
   height: 25px;
   margin: 0 10px 18px;
   padding: 5px 7px;
@@ -66,18 +80,14 @@ header {
     margin-bottom: 5px;
     align-items: flex-end
 }
-.top_bar
+.nav_box
 {
-    display: flex;
-    margin-top: 0;
-    margin-bottom: 20px;
-    padding: 10px 316px 11px 30px;
-    color: #778a50;
-    width: 940px;
-    height: 44px;
-    border-radius: 3px;
-    justify-content: space-between;
-    align-items: flex-end;
+  width: 940px;
+  height: 44px;
+  margin: 18px 0 20px;
+  padding: 10px 316px 11px 30px;
+  border-radius: 3px;
+  background-color: #778a50;
 }
 .Contact {
     width: 69px;
