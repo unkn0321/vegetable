@@ -200,6 +200,7 @@ img.img_main_pumpkin {
     justify-content: space-between;
 }
 .vegetable_area{
+    width: 444px;
     order: 1;
 }
 .contact_area{
