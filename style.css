@@ -24,24 +24,47 @@ header {
     height: 62px;
     margin-bottom: 5px;
 }
-.line_login
-{
-    width: 1px;
-    height: 25px;
-    margin-bottom: 13px;
-    background-color: #778a50;
-}
+
 .btn_FB{
     width: 25px;
     height: 25px;
-    margin: 0 10px 13px ;
+    margin-right: 10px ;
+    margin-bottom: 13px ;
     object-fit: contain;
 }
 .btn_IG{
     width: 25px;
     height: 25px;
-    margin: 0 10px 13px ;
+    margin-right: 10px ;
+    margin-bottom: 13px ;
+    margin-left: 469px;
     object-fit: contain;
+}
+.line_login
+{
+    width: 1px;
+    height: 25px;
+    margin-bottom: 13px;
+    margin-right:10px;
+    background-color: #778a50;
+}
+.btn_box_LOGIN
+{
+  width: 60px;
+  height: 25px;
+  margin-right:10px;
+  margin-bottom:13px;
+  padding: 5px 7px;
+  border: solid 1px #778a50;
+  border-radius: 3px;
+}
+.btn_box_JOIN{
+    width: 49px;
+    height: 25px;
+    margin-bottom:13px;
+    padding: 5px 7px;
+    border: solid 1px #778a50;
+    border-radius: 3px;
 }
 .btn_LOGIN{
     width: 46px;
@@ -69,37 +92,20 @@ header {
     text-align: left;
     color: #778a50;
 }
-.btn_box_LOGIN
-{
-  width: 60px;
-  height: 25px;
-  margin left:10px;
-  margin-bottom:13px;
-  padding: 5px 7px;
-  border: solid 1px #778a50;
-  border-radius: 3px;
-}
-.btn_box_JOIN{
-    width: 49px;
-    height: 25px;
-    margin-bottom:13px;
-    padding: 5px 7px;
-    border: solid 1px #778a50;
-    border-radius: 3px;
-}
+
 .nav_box
 {
   width: 940px;
   height: 44px;
-  margin: 5px 0 0 0;
   padding: 10px 316px 10px 30px;
+  margin-bottom: 20px;
   border-radius: 3px;
   background-color: #778a50;
 }
 .Contact {
     width: 69px;
     height: 23px;
-    margin: 0 0 0 60px;
+    margin-right: 60px;
     font-family: Arial;
     font-size: 16px;
     font-weight: 900;
@@ -113,7 +119,7 @@ header {
 .Online {
     width: 56px;
     height: 23px;
-    margin: 0 60px;
+    margin-right: 60px;
     font-family: Arial;
     font-size: 16px;
     font-weight: 900;
@@ -127,7 +133,7 @@ header {
 .Vegetables {
     width: 98px;
     height: 23px;
-    margin: 0 60px;
+    margin-right: 60px;
     font-family: Arial;
     font-size: 16px;
     font-weight: 900;
@@ -141,7 +147,7 @@ header {
 .About-Us {
     width: 80px;
     height: 23px;
-    margin: 0 60px;
+    margin-right: 60px;
     font-family: Arial;
     font-size: 16px;
     font-weight: 900;
@@ -155,7 +161,7 @@ header {
 .Home {
     width: 51px;
     height: 23px;
-    margin: 0 60px 0 0;
+    margin-right: 60px;
     font-family: Arial;
     font-size: 16px;
     font-weight: 900;
@@ -169,13 +175,14 @@ header {
 img.img_main_pumpkin {
     width: 940px;
     height: 448px;
-    margin: 20px 0 30px;
+    margin-bottom: 30px;
     object-fit: contain;
 }
 .body_box_contact {
     width: 444px;
     height: 45px;
-    margin: 30px 160px 15px 52px;
+    margin-left: 52px;
+    margin-bottom : 15px
     padding: 10px 345px 12px 30px;
     border-radius: 3px;
     background-color: #778a50;
@@ -202,7 +209,6 @@ img.img_main_pumpkin {
 .contact_text1{
     width: 414px;
     height: 44px;
-    margin: 0 0 15px;
     font-family: Arial;
     font-size: 12px;
     font-weight: normal;
@@ -216,14 +222,14 @@ img.img_main_pumpkin {
 .line_contact_text {
     width: 414px;
     height: 1px;
-    margin: 15px 0;
+    margin-top: 15px;
     background-color: #7d7d7d;
 }
 .contact_text2
 {
     width: 197px;
     height: 35px;
-    margin: 15px 0 0 217px;
+    margin-top: 15px;
     font-family: Arial;
     font-size: 12px;
     font-weight: normal;
@@ -237,7 +243,7 @@ img.img_main_pumpkin {
 .body_box_vegetables {
     width: 444px;
     height: 45px;
-    margin: 30px 52px 15px 0;
+    margin-bottom: 15px;
     padding: 10px 316px 12px 30px;
     border-radius: 3px;
     background-color: #778a50;
@@ -258,26 +264,27 @@ img.img_main_pumpkin {
 img.img_vegetables_pepper {
     width: 140px;
     height: 140px;
-    margin: 15px 12px 0 0;
+    margin-right:  12px;
     object-fit: contain;
 }
 img.img_vegetables_carrot {
     width: 140px;
     height: 140px;
-    margin: 15px 12px 0;
+    margin-right:  12px;
     object-fit: contain;
 }
 img.img_vegetables_corn {
     width: 140px;
     height: 140px;
-    margin: 15px 52px 0 12px;
+    margin-right: 52px;
     object-fit: contain;
 }
 .box_footer {
     width: 1260px ;
     height: 60px;
-    margin: 0 0 0;
-    padding: 23px 479px 23px 480px;
+    padding-top: 23px; 
+    padding-bottom: 23px; 
+    padding-right:479px;
     background-color: #778a50;
 }
 .Copyrights-2017-Vegetables-cise-Design-by-Vegetables {
