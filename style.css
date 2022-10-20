@@ -1,6 +1,13 @@
-
+head
+{
+    width:768px;
+}
+body
+{
+    width:768px;
+}
 .bg {
-    width: 1260px;
+    width: 768px;
     height: 880px;
     background-color: #edf2c5;
     padding: 36px 160px 0px 160px;
@@ -288,7 +295,7 @@ img.img_vegetables_corn {
     object-fit: contain;
 }
 .box_footer {
-    width: 1260px ;
+    width: 768px ;
     height: 60px;
     padding-top: 23px; 
     padding-bottom: 23px; 
