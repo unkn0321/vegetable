@@ -1,9 +1,14 @@
 
 .bg {
+    width: 1260px;
+    height: 880px;
     background-color: #edf2c5;
     padding: 36px 160px 0px 160px;
 }
 header {
+    width: 940px;
+    height: 62px;
+    padding: 0px;
     display: flex;
     align-items: flex-end;
     justify-content: space-between;
