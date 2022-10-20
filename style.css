@@ -200,6 +200,7 @@ img.img_main_pumpkin {
     display: flex;
     align-items: flex-end;
     justify-content: space-between;
+    margin-bottom:35px;
 }
 .vegetable_area{
     width: 444px;
@@ -292,16 +293,21 @@ img.img_main_pumpkin {
     text-align: left;
     color: #edf2c5;
 }
+.vegz_pic
+{
+    width:444px;
+    height:140px;
+}
 img.img_vegetables_pepper {
     width: 140px;
     height: 140px;
-    margin-right:  10px;
+    margin-right:  12px;
     object-fit: contain;
 }
 img.img_vegetables_carrot {
     width: 140px;
     height: 140px;
-    margin-right:  10px;
+    margin-right:  12px;
     object-fit: contain;
 }
 img.img_vegetables_corn {
