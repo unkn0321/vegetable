@@ -65,7 +65,8 @@ header {
   height: 25px;
   margin: 0 10px 18px;
   padding: 5px 7px;
-  border: solid 1px #778a50
+  border: solid 1px #778a50;
+  border-radius: 3px;
 }
 .btn_box_JOIN{
     width: 49px;
@@ -73,15 +74,7 @@ header {
     margin: 0 0 18px 10px;
     padding: 5px 7px;
     border: solid 1px #778a50;
-}
-.title{
-    display: flex;
-    width: 271px;
-    height: 62px;
-    font-size: 44px;
-    color: #778a50;
-    margin-bottom: 5px;
-    align-items: flex-end
+    border-radius: 3px;
 }
 .nav_box
 {
