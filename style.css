@@ -3,6 +3,13 @@
     background-color: #edf2c5;
     padding: 36px 160px 0px 160px;
 }
+header {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    height: 62px;
+    margin-bottom: 5px;
+}
 .vegetable_t
 {
     width: 271px;
@@ -17,14 +24,6 @@
     text-align: left;
     color: #778a50;
 }
-header {
-    display: flex;
-    align-items: flex-end;
-    justify-content: space-between;
-    height: 62px;
-    margin-bottom: 5px;
-}
-
 .btn_FB{
     width: 25px;
     height: 25px;
@@ -284,8 +283,8 @@ img.img_vegetables_corn {
     height: 60px;
     padding-top: 23px; 
     padding-bottom: 23px; 
-    padding-right:479px;
-    padding-left:480px;
+    padding-right: 479px;
+    padding-left: 480px;
     background-color: #778a50;
 }
 .Copyrights-2017-Vegetables-cise-Design-by-Vegetables {
