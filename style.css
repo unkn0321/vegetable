@@ -28,13 +28,14 @@
     letter-spacing: normal;
     text-align: left;
     margin-top: 0px;
-    margin-bottom: 0px
-    margin-right:469px;
+    margin-bottom: 0px;
+    margin-right: 469px;
     color: #778a50;
 }
 .btn_FB{
     width: 25px;
     height: 25px;
+    margin-left: 469px;
     margin-right: 10px ;
     margin-bottom: 13px ;
     object-fit: contain;
@@ -44,7 +45,6 @@
     height: 25px;
     margin-right: 10px ;
     margin-bottom: 13px ;
-    margin-left: 469px;
     object-fit: contain;
 }
 .line_login
