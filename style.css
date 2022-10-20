@@ -202,10 +202,12 @@ img.img_main_pumpkin {
 .vegetable_area{
     width: 444px;
     order: 1;
+    margin-right: 26px;
 }
 .contact_area{
+    widh: 444px;
     order: 2;
-    margin-left: 52px;
+    margin-left: 26px;
 }
 .body_box_contact {
     width: 444px;
