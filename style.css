@@ -8,11 +8,9 @@
 .top_area{
     width: 940px;
     height: 62px;
-    padding: 0px;
     display: flex;
     align-items: flex-end;
     justify-content: space-between;
-    height: 62px;
     margin-bottom: 5px;
 }
 .vegetable_t
@@ -27,8 +25,6 @@
     line-height: 0.82;
     letter-spacing: normal;
     text-align: left;
-    margin-top: 0px;
-    margin-bottom: 0px;
     margin-right: 469px;
     color: #778a50;
 }
@@ -99,7 +95,6 @@
     text-align: left;
     color: #778a50;
 }
-
 .nav_box
 {
   width: 940px;
