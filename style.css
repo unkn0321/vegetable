@@ -232,6 +232,10 @@ img.img_main_pumpkin {
     background-color: #f7fbda;
     box-sizing: border-box;
 }
+.text_area
+{
+    margin:0px 0px 0px 0px;
+}
 .contact_title {
   width: 69px;
   height: 23px;
@@ -301,7 +305,7 @@ img.img_main_pumpkin {
     color: #edf2c5;
 }
 .vegz_pic
-{
+{  
     width:444px;
     height:140px;
 }
