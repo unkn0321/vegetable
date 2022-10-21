@@ -229,6 +229,7 @@ img.img_main_pumpkin {
     padding-left: 15px;
     padding-right: 15px;
     background-color: #f7fbda;
+    box-sizing: border-box;
 }
 .contact_title {
   width: 69px;
