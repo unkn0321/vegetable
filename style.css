@@ -223,10 +223,14 @@ img.img_main_pumpkin {
 }
 .text_area
 {
+    width: 414px;
+    height: 110px;
     margin-top:15px;
     margin-bottom:15px;
     margin-left:15px;
     margin-right:15px;
+    background-color: #f7fbda;
+    box-sizing: border-box;
 }
 .body_box_contact_text {
     width: 444px;
